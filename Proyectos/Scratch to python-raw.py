@@ -1,6 +1,5 @@
 import time
 
-# --- PARTE 1 ---
 print("[Variable 'HP' oculta]")
 print("[Objeto mostrado en posición x: 73, y: -26]")
 time.sleep(0.21)
@@ -40,7 +39,6 @@ print("[Objeto mostrado]")
 print("Kasane Teto: Let's dance buddy... press space when you ready...")
 time.sleep(3.5)
 
-# --- PARTE 2 ---
 hp = 0
 time.sleep(5)
 hp = 25
